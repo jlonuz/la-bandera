@@ -2,8 +2,14 @@ body 	{
 	margin: 0;
 }
 
-.yellow, .red	{
+.box	{
 	height: 100px;
+	width: 200px;
+	margin-bottom: 10px;
+	margin-right: 10px;
+	padding: 10px;
+	display: inline-block;
+
 }
 
 .yellow 	{

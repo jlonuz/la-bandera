@@ -2,8 +2,11 @@ body 	{
 	margin: 0;
 }
 
-.yellow, .red	{
+.box	{
 	height: 100px;
+	width: 200px;
+	margin-bottom: 10px;
+	padding: 10px;
 }
 
 .yellow 	{
